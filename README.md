@@ -1,6 +1,6 @@
 <!-- Demo -->
 
-🔗 [Live Demo](https://your-deployed-link.netlify.app)
+🔗 [Live Demo](https://indian-agriculture-assignment.vercel.app/)
 
 <!-- Tech Stack use in project -->
 

@@ -18,7 +18,7 @@ Responsive design
 
 <!-- project clone -->
 
-git clone https://github.com/your-username/agriculture-visualization.git
+git clone https://github.com/harshisdev/indian-agriculture-assignment
 cd agriculture-visualization
 yarn install
 yarn dev

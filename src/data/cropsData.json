@@ -1,0 +1,2842 @@
+[
+  {
+    "year": 1950,
+    "crop": "Wheat",
+    "production": 801
+  },
+  {
+    "year": 1950,
+    "crop": "Rice",
+    "production": 40
+  },
+  {
+    "year": 1950,
+    "crop": "Maize",
+    "production": 23
+  },
+  {
+    "year": 1950,
+    "crop": "Barley",
+    "production": 70
+  },
+  {
+    "year": 1950,
+    "crop": "Bajra",
+    "production": 829
+  },
+  {
+    "year": 1950,
+    "crop": "Sugarcane",
+    "production": 107
+  },
+  {
+    "year": 1950,
+    "crop": "Cotton",
+    "production": 873
+  },
+  {
+    "year": 1950,
+    "crop": "Groundnut",
+    "production": 895
+  },
+  {
+    "year": 1951,
+    "crop": "Wheat",
+    "production": 528
+  },
+  {
+    "year": 1951,
+    "crop": "Rice",
+    "production": 17
+  },
+  {
+    "year": 1951,
+    "crop": "Maize",
+    "production": 163
+  },
+  {
+    "year": 1951,
+    "crop": "Barley",
+    "production": 897
+  },
+  {
+    "year": 1951,
+    "crop": "Bajra",
+    "production": 754
+  },
+  {
+    "year": 1951,
+    "crop": "Sugarcane",
+    "production": 909
+  },
+  {
+    "year": 1951,
+    "crop": "Cotton",
+    "production": 118
+  },
+  {
+    "year": 1951,
+    "crop": "Groundnut",
+    "production": 857
+  },
+  {
+    "year": 1952,
+    "crop": "Wheat",
+    "production": 816
+  },
+  {
+    "year": 1952,
+    "crop": "Rice",
+    "production": 986
+  },
+  {
+    "year": 1952,
+    "crop": "Maize",
+    "production": 272
+  },
+  {
+    "year": 1952,
+    "crop": "Barley",
+    "production": 863
+  },
+  {
+    "year": 1952,
+    "crop": "Bajra",
+    "production": 861
+  },
+  {
+    "year": 1952,
+    "crop": "Sugarcane",
+    "production": 454
+  },
+  {
+    "year": 1952,
+    "crop": "Cotton",
+    "production": 348
+  },
+  {
+    "year": 1952,
+    "crop": "Groundnut",
+    "production": 624
+  },
+  {
+    "year": 1953,
+    "crop": "Wheat",
+    "production": 76
+  },
+  {
+    "year": 1953,
+    "crop": "Rice",
+    "production": 872
+  },
+  {
+    "year": 1953,
+    "crop": "Maize",
+    "production": 466
+  },
+  {
+    "year": 1953,
+    "crop": "Barley",
+    "production": 131
+  },
+  {
+    "year": 1953,
+    "crop": "Bajra",
+    "production": 111
+  },
+  {
+    "year": 1953,
+    "crop": "Sugarcane",
+    "production": 889
+  },
+  {
+    "year": 1953,
+    "crop": "Cotton",
+    "production": 539
+  },
+  {
+    "year": 1953,
+    "crop": "Groundnut",
+    "production": 354
+  },
+  {
+    "year": 1954,
+    "crop": "Wheat",
+    "production": 186
+  },
+  {
+    "year": 1954,
+    "crop": "Rice",
+    "production": 326
+  },
+  {
+    "year": 1954,
+    "crop": "Maize",
+    "production": 401
+  },
+  {
+    "year": 1954,
+    "crop": "Barley",
+    "production": 644
+  },
+  {
+    "year": 1954,
+    "crop": "Bajra",
+    "production": 649
+  },
+  {
+    "year": 1954,
+    "crop": "Sugarcane",
+    "production": 807
+  },
+  {
+    "year": 1954,
+    "crop": "Cotton",
+    "production": 295
+  },
+  {
+    "year": 1954,
+    "crop": "Groundnut",
+    "production": 894
+  },
+  {
+    "year": 1955,
+    "crop": "Wheat",
+    "production": 22
+  },
+  {
+    "year": 1955,
+    "crop": "Rice",
+    "production": 390
+  },
+  {
+    "year": 1955,
+    "crop": "Maize",
+    "production": 186
+  },
+  {
+    "year": 1955,
+    "crop": "Barley",
+    "production": 251
+  },
+  {
+    "year": 1955,
+    "crop": "Bajra",
+    "production": 121
+  },
+  {
+    "year": 1955,
+    "crop": "Sugarcane",
+    "production": 256
+  },
+  {
+    "year": 1955,
+    "crop": "Cotton",
+    "production": 680
+  },
+  {
+    "year": 1955,
+    "crop": "Groundnut",
+    "production": 265
+  },
+  {
+    "year": 1956,
+    "crop": "Wheat",
+    "production": 624
+  },
+  {
+    "year": 1956,
+    "crop": "Rice",
+    "production": 966
+  },
+  {
+    "year": 1956,
+    "crop": "Maize",
+    "production": 669
+  },
+  {
+    "year": 1956,
+    "crop": "Barley",
+    "production": 556
+  },
+  {
+    "year": 1956,
+    "crop": "Bajra",
+    "production": 19
+  },
+  {
+    "year": 1956,
+    "crop": "Sugarcane",
+    "production": 532
+  },
+  {
+    "year": 1956,
+    "crop": "Cotton",
+    "production": 435
+  },
+  {
+    "year": 1956,
+    "crop": "Groundnut",
+    "production": 944
+  },
+  {
+    "year": 1957,
+    "crop": "Wheat",
+    "production": 970
+  },
+  {
+    "year": 1957,
+    "crop": "Rice",
+    "production": 555
+  },
+  {
+    "year": 1957,
+    "crop": "Maize",
+    "production": 754
+  },
+  {
+    "year": 1957,
+    "crop": "Barley",
+    "production": 426
+  },
+  {
+    "year": 1957,
+    "crop": "Bajra",
+    "production": 998
+  },
+  {
+    "year": 1957,
+    "crop": "Sugarcane",
+    "production": 303
+  },
+  {
+    "year": 1957,
+    "crop": "Cotton",
+    "production": 207
+  },
+  {
+    "year": 1957,
+    "crop": "Groundnut",
+    "production": 139
+  },
+  {
+    "year": 1958,
+    "crop": "Wheat",
+    "production": 719
+  },
+  {
+    "year": 1958,
+    "crop": "Rice",
+    "production": 154
+  },
+  {
+    "year": 1958,
+    "crop": "Maize",
+    "production": 499
+  },
+  {
+    "year": 1958,
+    "crop": "Barley",
+    "production": 845
+  },
+  {
+    "year": 1958,
+    "crop": "Bajra",
+    "production": 11
+  },
+  {
+    "year": 1958,
+    "crop": "Sugarcane",
+    "production": 548
+  },
+  {
+    "year": 1958,
+    "crop": "Cotton",
+    "production": 322
+  },
+  {
+    "year": 1958,
+    "crop": "Groundnut",
+    "production": 396
+  },
+  {
+    "year": 1959,
+    "crop": "Wheat",
+    "production": 943
+  },
+  {
+    "year": 1959,
+    "crop": "Rice",
+    "production": 423
+  },
+  {
+    "year": 1959,
+    "crop": "Maize",
+    "production": 520
+  },
+  {
+    "year": 1959,
+    "crop": "Barley",
+    "production": 721
+  },
+  {
+    "year": 1959,
+    "crop": "Bajra",
+    "production": 441
+  },
+  {
+    "year": 1959,
+    "crop": "Sugarcane",
+    "production": 839
+  },
+  {
+    "year": 1959,
+    "crop": "Cotton",
+    "production": 174
+  },
+  {
+    "year": 1959,
+    "crop": "Groundnut",
+    "production": 938
+  },
+  {
+    "year": 1960,
+    "crop": "Wheat",
+    "production": 163
+  },
+  {
+    "year": 1960,
+    "crop": "Rice",
+    "production": 769
+  },
+  {
+    "year": 1960,
+    "crop": "Maize",
+    "production": 591
+  },
+  {
+    "year": 1960,
+    "crop": "Barley",
+    "production": 730
+  },
+  {
+    "year": 1960,
+    "crop": "Bajra",
+    "production": 161
+  },
+  {
+    "year": 1960,
+    "crop": "Sugarcane",
+    "production": 347
+  },
+  {
+    "year": 1960,
+    "crop": "Cotton",
+    "production": 897
+  },
+  {
+    "year": 1960,
+    "crop": "Groundnut",
+    "production": 8
+  },
+  {
+    "year": 1961,
+    "crop": "Wheat",
+    "production": 198
+  },
+  {
+    "year": 1961,
+    "crop": "Rice",
+    "production": 639
+  },
+  {
+    "year": 1961,
+    "crop": "Maize",
+    "production": 841
+  },
+  {
+    "year": 1961,
+    "crop": "Barley",
+    "production": 801
+  },
+  {
+    "year": 1961,
+    "crop": "Bajra",
+    "production": 523
+  },
+  {
+    "year": 1961,
+    "crop": "Sugarcane",
+    "production": 865
+  },
+  {
+    "year": 1961,
+    "crop": "Cotton",
+    "production": 962
+  },
+  {
+    "year": 1961,
+    "crop": "Groundnut",
+    "production": 955
+  },
+  {
+    "year": 1962,
+    "crop": "Wheat",
+    "production": 839
+  },
+  {
+    "year": 1962,
+    "crop": "Rice",
+    "production": 770
+  },
+  {
+    "year": 1962,
+    "crop": "Maize",
+    "production": 509
+  },
+  {
+    "year": 1962,
+    "crop": "Barley",
+    "production": 853
+  },
+  {
+    "year": 1962,
+    "crop": "Bajra",
+    "production": 416
+  },
+  {
+    "year": 1962,
+    "crop": "Sugarcane",
+    "production": 402
+  },
+  {
+    "year": 1962,
+    "crop": "Cotton",
+    "production": 337
+  },
+  {
+    "year": 1962,
+    "crop": "Groundnut",
+    "production": 3
+  },
+  {
+    "year": 1963,
+    "crop": "Wheat",
+    "production": 728
+  },
+  {
+    "year": 1963,
+    "crop": "Rice",
+    "production": 206
+  },
+  {
+    "year": 1963,
+    "crop": "Maize",
+    "production": 707
+  },
+  {
+    "year": 1963,
+    "crop": "Barley",
+    "production": 484
+  },
+  {
+    "year": 1963,
+    "crop": "Bajra",
+    "production": 768
+  },
+  {
+    "year": 1963,
+    "crop": "Sugarcane",
+    "production": 963
+  },
+  {
+    "year": 1963,
+    "crop": "Cotton",
+    "production": 531
+  },
+  {
+    "year": 1963,
+    "crop": "Groundnut",
+    "production": 353
+  },
+  {
+    "year": 1964,
+    "crop": "Wheat",
+    "production": 997
+  },
+  {
+    "year": 1964,
+    "crop": "Rice",
+    "production": 839
+  },
+  {
+    "year": 1964,
+    "crop": "Maize",
+    "production": 494
+  },
+  {
+    "year": 1964,
+    "crop": "Barley",
+    "production": 721
+  },
+  {
+    "year": 1964,
+    "crop": "Bajra",
+    "production": 542
+  },
+  {
+    "year": 1964,
+    "crop": "Sugarcane",
+    "production": 596
+  },
+  {
+    "year": 1964,
+    "crop": "Cotton",
+    "production": 961
+  },
+  {
+    "year": 1964,
+    "crop": "Groundnut",
+    "production": 582
+  },
+  {
+    "year": 1965,
+    "crop": "Wheat",
+    "production": 411
+  },
+  {
+    "year": 1965,
+    "crop": "Rice",
+    "production": 714
+  },
+  {
+    "year": 1965,
+    "crop": "Maize",
+    "production": 122
+  },
+  {
+    "year": 1965,
+    "crop": "Barley",
+    "production": 60
+  },
+  {
+    "year": 1965,
+    "crop": "Bajra",
+    "production": 62
+  },
+  {
+    "year": 1965,
+    "crop": "Sugarcane",
+    "production": 58
+  },
+  {
+    "year": 1965,
+    "crop": "Cotton",
+    "production": 750
+  },
+  {
+    "year": 1965,
+    "crop": "Groundnut",
+    "production": 593
+  },
+  {
+    "year": 1966,
+    "crop": "Wheat",
+    "production": 535
+  },
+  {
+    "year": 1966,
+    "crop": "Rice",
+    "production": 258
+  },
+  {
+    "year": 1966,
+    "crop": "Maize",
+    "production": 67
+  },
+  {
+    "year": 1966,
+    "crop": "Barley",
+    "production": 199
+  },
+  {
+    "year": 1966,
+    "crop": "Bajra",
+    "production": 68
+  },
+  {
+    "year": 1966,
+    "crop": "Sugarcane",
+    "production": 963
+  },
+  {
+    "year": 1966,
+    "crop": "Cotton",
+    "production": 813
+  },
+  {
+    "year": 1966,
+    "crop": "Groundnut",
+    "production": 878
+  },
+  {
+    "year": 1967,
+    "crop": "Wheat",
+    "production": 656
+  },
+  {
+    "year": 1967,
+    "crop": "Rice",
+    "production": 695
+  },
+  {
+    "year": 1967,
+    "crop": "Maize",
+    "production": 152
+  },
+  {
+    "year": 1967,
+    "crop": "Barley",
+    "production": 432
+  },
+  {
+    "year": 1967,
+    "crop": "Bajra",
+    "production": 365
+  },
+  {
+    "year": 1967,
+    "crop": "Sugarcane",
+    "production": 330
+  },
+  {
+    "year": 1967,
+    "crop": "Cotton",
+    "production": 764
+  },
+  {
+    "year": 1967,
+    "crop": "Groundnut",
+    "production": 80
+  },
+  {
+    "year": 1968,
+    "crop": "Wheat",
+    "production": 61
+  },
+  {
+    "year": 1968,
+    "crop": "Rice",
+    "production": 868
+  },
+  {
+    "year": 1968,
+    "crop": "Maize",
+    "production": 460
+  },
+  {
+    "year": 1968,
+    "crop": "Barley",
+    "production": 297
+  },
+  {
+    "year": 1968,
+    "crop": "Bajra",
+    "production": 100
+  },
+  {
+    "year": 1968,
+    "crop": "Sugarcane",
+    "production": 8
+  },
+  {
+    "year": 1968,
+    "crop": "Cotton",
+    "production": 597
+  },
+  {
+    "year": 1968,
+    "crop": "Groundnut",
+    "production": 477
+  },
+  {
+    "year": 1969,
+    "crop": "Wheat",
+    "production": 798
+  },
+  {
+    "year": 1969,
+    "crop": "Rice",
+    "production": 224
+  },
+  {
+    "year": 1969,
+    "crop": "Maize",
+    "production": 621
+  },
+  {
+    "year": 1969,
+    "crop": "Barley",
+    "production": 331
+  },
+  {
+    "year": 1969,
+    "crop": "Bajra",
+    "production": 342
+  },
+  {
+    "year": 1969,
+    "crop": "Sugarcane",
+    "production": 315
+  },
+  {
+    "year": 1969,
+    "crop": "Cotton",
+    "production": 725
+  },
+  {
+    "year": 1969,
+    "crop": "Groundnut",
+    "production": 179
+  },
+  {
+    "year": 1970,
+    "crop": "Wheat",
+    "production": 70
+  },
+  {
+    "year": 1970,
+    "crop": "Rice",
+    "production": 45
+  },
+  {
+    "year": 1970,
+    "crop": "Maize",
+    "production": 459
+  },
+  {
+    "year": 1970,
+    "crop": "Barley",
+    "production": 923
+  },
+  {
+    "year": 1970,
+    "crop": "Bajra",
+    "production": 477
+  },
+  {
+    "year": 1970,
+    "crop": "Sugarcane",
+    "production": 665
+  },
+  {
+    "year": 1970,
+    "crop": "Cotton",
+    "production": 388
+  },
+  {
+    "year": 1970,
+    "crop": "Groundnut",
+    "production": 739
+  },
+  {
+    "year": 1971,
+    "crop": "Wheat",
+    "production": 729
+  },
+  {
+    "year": 1971,
+    "crop": "Rice",
+    "production": 653
+  },
+  {
+    "year": 1971,
+    "crop": "Maize",
+    "production": 250
+  },
+  {
+    "year": 1971,
+    "crop": "Barley",
+    "production": 957
+  },
+  {
+    "year": 1971,
+    "crop": "Bajra",
+    "production": 806
+  },
+  {
+    "year": 1971,
+    "crop": "Sugarcane",
+    "production": 265
+  },
+  {
+    "year": 1971,
+    "crop": "Cotton",
+    "production": 581
+  },
+  {
+    "year": 1971,
+    "crop": "Groundnut",
+    "production": 638
+  },
+  {
+    "year": 1972,
+    "crop": "Wheat",
+    "production": 959
+  },
+  {
+    "year": 1972,
+    "crop": "Rice",
+    "production": 374
+  },
+  {
+    "year": 1972,
+    "crop": "Maize",
+    "production": 932
+  },
+  {
+    "year": 1972,
+    "crop": "Barley",
+    "production": 479
+  },
+  {
+    "year": 1972,
+    "crop": "Bajra",
+    "production": 462
+  },
+  {
+    "year": 1972,
+    "crop": "Sugarcane",
+    "production": 257
+  },
+  {
+    "year": 1972,
+    "crop": "Cotton",
+    "production": 537
+  },
+  {
+    "year": 1972,
+    "crop": "Groundnut",
+    "production": 345
+  },
+  {
+    "year": 1973,
+    "crop": "Wheat",
+    "production": 22
+  },
+  {
+    "year": 1973,
+    "crop": "Rice",
+    "production": 692
+  },
+  {
+    "year": 1973,
+    "crop": "Maize",
+    "production": 260
+  },
+  {
+    "year": 1973,
+    "crop": "Barley",
+    "production": 53
+  },
+  {
+    "year": 1973,
+    "crop": "Bajra",
+    "production": 150
+  },
+  {
+    "year": 1973,
+    "crop": "Sugarcane",
+    "production": 601
+  },
+  {
+    "year": 1973,
+    "crop": "Cotton",
+    "production": 220
+  },
+  {
+    "year": 1973,
+    "crop": "Groundnut",
+    "production": 138
+  },
+  {
+    "year": 1974,
+    "crop": "Wheat",
+    "production": 495
+  },
+  {
+    "year": 1974,
+    "crop": "Rice",
+    "production": 789
+  },
+  {
+    "year": 1974,
+    "crop": "Maize",
+    "production": 171
+  },
+  {
+    "year": 1974,
+    "crop": "Barley",
+    "production": 353
+  },
+  {
+    "year": 1974,
+    "crop": "Bajra",
+    "production": 863
+  },
+  {
+    "year": 1974,
+    "crop": "Sugarcane",
+    "production": 493
+  },
+  {
+    "year": 1974,
+    "crop": "Cotton",
+    "production": 331
+  },
+  {
+    "year": 1974,
+    "crop": "Groundnut",
+    "production": 313
+  },
+  {
+    "year": 1975,
+    "crop": "Wheat",
+    "production": 845
+  },
+  {
+    "year": 1975,
+    "crop": "Rice",
+    "production": 579
+  },
+  {
+    "year": 1975,
+    "crop": "Maize",
+    "production": 272
+  },
+  {
+    "year": 1975,
+    "crop": "Barley",
+    "production": 930
+  },
+  {
+    "year": 1975,
+    "crop": "Bajra",
+    "production": 733
+  },
+  {
+    "year": 1975,
+    "crop": "Sugarcane",
+    "production": 950
+  },
+  {
+    "year": 1975,
+    "crop": "Cotton",
+    "production": 915
+  },
+  {
+    "year": 1975,
+    "crop": "Groundnut",
+    "production": 22
+  },
+  {
+    "year": 1976,
+    "crop": "Wheat",
+    "production": 465
+  },
+  {
+    "year": 1976,
+    "crop": "Rice",
+    "production": 131
+  },
+  {
+    "year": 1976,
+    "crop": "Maize",
+    "production": 923
+  },
+  {
+    "year": 1976,
+    "crop": "Barley",
+    "production": 710
+  },
+  {
+    "year": 1976,
+    "crop": "Bajra",
+    "production": 367
+  },
+  {
+    "year": 1976,
+    "crop": "Sugarcane",
+    "production": 808
+  },
+  {
+    "year": 1976,
+    "crop": "Cotton",
+    "production": 936
+  },
+  {
+    "year": 1976,
+    "crop": "Groundnut",
+    "production": 698
+  },
+  {
+    "year": 1977,
+    "crop": "Wheat",
+    "production": 628
+  },
+  {
+    "year": 1977,
+    "crop": "Rice",
+    "production": 386
+  },
+  {
+    "year": 1977,
+    "crop": "Maize",
+    "production": 277
+  },
+  {
+    "year": 1977,
+    "crop": "Barley",
+    "production": 45
+  },
+  {
+    "year": 1977,
+    "crop": "Bajra",
+    "production": 153
+  },
+  {
+    "year": 1977,
+    "crop": "Sugarcane",
+    "production": 27
+  },
+  {
+    "year": 1977,
+    "crop": "Cotton",
+    "production": 238
+  },
+  {
+    "year": 1977,
+    "crop": "Groundnut",
+    "production": 193
+  },
+  {
+    "year": 1978,
+    "crop": "Wheat",
+    "production": 670
+  },
+  {
+    "year": 1978,
+    "crop": "Rice",
+    "production": 713
+  },
+  {
+    "year": 1978,
+    "crop": "Maize",
+    "production": 861
+  },
+  {
+    "year": 1978,
+    "crop": "Barley",
+    "production": 114
+  },
+  {
+    "year": 1978,
+    "crop": "Bajra",
+    "production": 312
+  },
+  {
+    "year": 1978,
+    "crop": "Sugarcane",
+    "production": 47
+  },
+  {
+    "year": 1978,
+    "crop": "Cotton",
+    "production": 505
+  },
+  {
+    "year": 1978,
+    "crop": "Groundnut",
+    "production": 403
+  },
+  {
+    "year": 1979,
+    "crop": "Wheat",
+    "production": 143
+  },
+  {
+    "year": 1979,
+    "crop": "Rice",
+    "production": 100
+  },
+  {
+    "year": 1979,
+    "crop": "Maize",
+    "production": 95
+  },
+  {
+    "year": 1979,
+    "crop": "Barley",
+    "production": 533
+  },
+  {
+    "year": 1979,
+    "crop": "Bajra",
+    "production": 525
+  },
+  {
+    "year": 1979,
+    "crop": "Sugarcane",
+    "production": 39
+  },
+  {
+    "year": 1979,
+    "crop": "Cotton",
+    "production": 666
+  },
+  {
+    "year": 1979,
+    "crop": "Groundnut",
+    "production": 477
+  },
+  {
+    "year": 1980,
+    "crop": "Wheat",
+    "production": 0
+  },
+  {
+    "year": 1980,
+    "crop": "Rice",
+    "production": 857
+  },
+  {
+    "year": 1980,
+    "crop": "Maize",
+    "production": 45
+  },
+  {
+    "year": 1980,
+    "crop": "Barley",
+    "production": 27
+  },
+  {
+    "year": 1980,
+    "crop": "Bajra",
+    "production": 628
+  },
+  {
+    "year": 1980,
+    "crop": "Sugarcane",
+    "production": 96
+  },
+  {
+    "year": 1980,
+    "crop": "Cotton",
+    "production": 3
+  },
+  {
+    "year": 1980,
+    "crop": "Groundnut",
+    "production": 766
+  },
+  {
+    "year": 1981,
+    "crop": "Wheat",
+    "production": 627
+  },
+  {
+    "year": 1981,
+    "crop": "Rice",
+    "production": 932
+  },
+  {
+    "year": 1981,
+    "crop": "Maize",
+    "production": 315
+  },
+  {
+    "year": 1981,
+    "crop": "Barley",
+    "production": 467
+  },
+  {
+    "year": 1981,
+    "crop": "Bajra",
+    "production": 740
+  },
+  {
+    "year": 1981,
+    "crop": "Sugarcane",
+    "production": 835
+  },
+  {
+    "year": 1981,
+    "crop": "Cotton",
+    "production": 70
+  },
+  {
+    "year": 1981,
+    "crop": "Groundnut",
+    "production": 521
+  },
+  {
+    "year": 1982,
+    "crop": "Wheat",
+    "production": 680
+  },
+  {
+    "year": 1982,
+    "crop": "Rice",
+    "production": 467
+  },
+  {
+    "year": 1982,
+    "crop": "Maize",
+    "production": 29
+  },
+  {
+    "year": 1982,
+    "crop": "Barley",
+    "production": 274
+  },
+  {
+    "year": 1982,
+    "crop": "Bajra",
+    "production": 422
+  },
+  {
+    "year": 1982,
+    "crop": "Sugarcane",
+    "production": 889
+  },
+  {
+    "year": 1982,
+    "crop": "Cotton",
+    "production": 241
+  },
+  {
+    "year": 1982,
+    "crop": "Groundnut",
+    "production": 708
+  },
+  {
+    "year": 1983,
+    "crop": "Wheat",
+    "production": 290
+  },
+  {
+    "year": 1983,
+    "crop": "Rice",
+    "production": 770
+  },
+  {
+    "year": 1983,
+    "crop": "Maize",
+    "production": 286
+  },
+  {
+    "year": 1983,
+    "crop": "Barley",
+    "production": 993
+  },
+  {
+    "year": 1983,
+    "crop": "Bajra",
+    "production": 79
+  },
+  {
+    "year": 1983,
+    "crop": "Sugarcane",
+    "production": 227
+  },
+  {
+    "year": 1983,
+    "crop": "Cotton",
+    "production": 601
+  },
+  {
+    "year": 1983,
+    "crop": "Groundnut",
+    "production": 860
+  },
+  {
+    "year": 1984,
+    "crop": "Wheat",
+    "production": 318
+  },
+  {
+    "year": 1984,
+    "crop": "Rice",
+    "production": 5
+  },
+  {
+    "year": 1984,
+    "crop": "Maize",
+    "production": 878
+  },
+  {
+    "year": 1984,
+    "crop": "Barley",
+    "production": 577
+  },
+  {
+    "year": 1984,
+    "crop": "Bajra",
+    "production": 48
+  },
+  {
+    "year": 1984,
+    "crop": "Sugarcane",
+    "production": 746
+  },
+  {
+    "year": 1984,
+    "crop": "Cotton",
+    "production": 588
+  },
+  {
+    "year": 1984,
+    "crop": "Groundnut",
+    "production": 391
+  },
+  {
+    "year": 1985,
+    "crop": "Wheat",
+    "production": 147
+  },
+  {
+    "year": 1985,
+    "crop": "Rice",
+    "production": 412
+  },
+  {
+    "year": 1985,
+    "crop": "Maize",
+    "production": 959
+  },
+  {
+    "year": 1985,
+    "crop": "Barley",
+    "production": 744
+  },
+  {
+    "year": 1985,
+    "crop": "Bajra",
+    "production": 308
+  },
+  {
+    "year": 1985,
+    "crop": "Sugarcane",
+    "production": 80
+  },
+  {
+    "year": 1985,
+    "crop": "Cotton",
+    "production": 922
+  },
+  {
+    "year": 1985,
+    "crop": "Groundnut",
+    "production": 408
+  },
+  {
+    "year": 1986,
+    "crop": "Wheat",
+    "production": 735
+  },
+  {
+    "year": 1986,
+    "crop": "Rice",
+    "production": 712
+  },
+  {
+    "year": 1986,
+    "crop": "Maize",
+    "production": 806
+  },
+  {
+    "year": 1986,
+    "crop": "Barley",
+    "production": 351
+  },
+  {
+    "year": 1986,
+    "crop": "Bajra",
+    "production": 651
+  },
+  {
+    "year": 1986,
+    "crop": "Sugarcane",
+    "production": 198
+  },
+  {
+    "year": 1986,
+    "crop": "Cotton",
+    "production": 139
+  },
+  {
+    "year": 1986,
+    "crop": "Groundnut",
+    "production": 355
+  },
+  {
+    "year": 1987,
+    "crop": "Wheat",
+    "production": 143
+  },
+  {
+    "year": 1987,
+    "crop": "Rice",
+    "production": 327
+  },
+  {
+    "year": 1987,
+    "crop": "Maize",
+    "production": 283
+  },
+  {
+    "year": 1987,
+    "crop": "Barley",
+    "production": 745
+  },
+  {
+    "year": 1987,
+    "crop": "Bajra",
+    "production": 522
+  },
+  {
+    "year": 1987,
+    "crop": "Sugarcane",
+    "production": 941
+  },
+  {
+    "year": 1987,
+    "crop": "Cotton",
+    "production": 217
+  },
+  {
+    "year": 1987,
+    "crop": "Groundnut",
+    "production": 127
+  },
+  {
+    "year": 1988,
+    "crop": "Wheat",
+    "production": 255
+  },
+  {
+    "year": 1988,
+    "crop": "Rice",
+    "production": 113
+  },
+  {
+    "year": 1988,
+    "crop": "Maize",
+    "production": 283
+  },
+  {
+    "year": 1988,
+    "crop": "Barley",
+    "production": 178
+  },
+  {
+    "year": 1988,
+    "crop": "Bajra",
+    "production": 767
+  },
+  {
+    "year": 1988,
+    "crop": "Sugarcane",
+    "production": 572
+  },
+  {
+    "year": 1988,
+    "crop": "Cotton",
+    "production": 494
+  },
+  {
+    "year": 1988,
+    "crop": "Groundnut",
+    "production": 586
+  },
+  {
+    "year": 1989,
+    "crop": "Wheat",
+    "production": 541
+  },
+  {
+    "year": 1989,
+    "crop": "Rice",
+    "production": 697
+  },
+  {
+    "year": 1989,
+    "crop": "Maize",
+    "production": 610
+  },
+  {
+    "year": 1989,
+    "crop": "Barley",
+    "production": 987
+  },
+  {
+    "year": 1989,
+    "crop": "Bajra",
+    "production": 604
+  },
+  {
+    "year": 1989,
+    "crop": "Sugarcane",
+    "production": 366
+  },
+  {
+    "year": 1989,
+    "crop": "Cotton",
+    "production": 671
+  },
+  {
+    "year": 1989,
+    "crop": "Groundnut",
+    "production": 974
+  },
+  {
+    "year": 1990,
+    "crop": "Wheat",
+    "production": 176
+  },
+  {
+    "year": 1990,
+    "crop": "Rice",
+    "production": 737
+  },
+  {
+    "year": 1990,
+    "crop": "Maize",
+    "production": 776
+  },
+  {
+    "year": 1990,
+    "crop": "Barley",
+    "production": 181
+  },
+  {
+    "year": 1990,
+    "crop": "Bajra",
+    "production": 901
+  },
+  {
+    "year": 1990,
+    "crop": "Sugarcane",
+    "production": 975
+  },
+  {
+    "year": 1990,
+    "crop": "Cotton",
+    "production": 978
+  },
+  {
+    "year": 1990,
+    "crop": "Groundnut",
+    "production": 560
+  },
+  {
+    "year": 1991,
+    "crop": "Wheat",
+    "production": 697
+  },
+  {
+    "year": 1991,
+    "crop": "Rice",
+    "production": 392
+  },
+  {
+    "year": 1991,
+    "crop": "Maize",
+    "production": 962
+  },
+  {
+    "year": 1991,
+    "crop": "Barley",
+    "production": 238
+  },
+  {
+    "year": 1991,
+    "crop": "Bajra",
+    "production": 697
+  },
+  {
+    "year": 1991,
+    "crop": "Sugarcane",
+    "production": 9
+  },
+  {
+    "year": 1991,
+    "crop": "Cotton",
+    "production": 414
+  },
+  {
+    "year": 1991,
+    "crop": "Groundnut",
+    "production": 967
+  },
+  {
+    "year": 1992,
+    "crop": "Wheat",
+    "production": 4
+  },
+  {
+    "year": 1992,
+    "crop": "Rice",
+    "production": 610
+  },
+  {
+    "year": 1992,
+    "crop": "Maize",
+    "production": 869
+  },
+  {
+    "year": 1992,
+    "crop": "Barley",
+    "production": 939
+  },
+  {
+    "year": 1992,
+    "crop": "Bajra",
+    "production": 419
+  },
+  {
+    "year": 1992,
+    "crop": "Sugarcane",
+    "production": 608
+  },
+  {
+    "year": 1992,
+    "crop": "Cotton",
+    "production": 512
+  },
+  {
+    "year": 1992,
+    "crop": "Groundnut",
+    "production": 74
+  },
+  {
+    "year": 1993,
+    "crop": "Wheat",
+    "production": 461
+  },
+  {
+    "year": 1993,
+    "crop": "Rice",
+    "production": 375
+  },
+  {
+    "year": 1993,
+    "crop": "Maize",
+    "production": 979
+  },
+  {
+    "year": 1993,
+    "crop": "Barley",
+    "production": 324
+  },
+  {
+    "year": 1993,
+    "crop": "Bajra",
+    "production": 821
+  },
+  {
+    "year": 1993,
+    "crop": "Sugarcane",
+    "production": 607
+  },
+  {
+    "year": 1993,
+    "crop": "Cotton",
+    "production": 556
+  },
+  {
+    "year": 1993,
+    "crop": "Groundnut",
+    "production": 874
+  },
+  {
+    "year": 1994,
+    "crop": "Wheat",
+    "production": 790
+  },
+  {
+    "year": 1994,
+    "crop": "Rice",
+    "production": 178
+  },
+  {
+    "year": 1994,
+    "crop": "Maize",
+    "production": 643
+  },
+  {
+    "year": 1994,
+    "crop": "Barley",
+    "production": 210
+  },
+  {
+    "year": 1994,
+    "crop": "Bajra",
+    "production": 228
+  },
+  {
+    "year": 1994,
+    "crop": "Sugarcane",
+    "production": 739
+  },
+  {
+    "year": 1994,
+    "crop": "Cotton",
+    "production": 976
+  },
+  {
+    "year": 1994,
+    "crop": "Groundnut",
+    "production": 136
+  },
+  {
+    "year": 1995,
+    "crop": "Wheat",
+    "production": 671
+  },
+  {
+    "year": 1995,
+    "crop": "Rice",
+    "production": 275
+  },
+  {
+    "year": 1995,
+    "crop": "Maize",
+    "production": 725
+  },
+  {
+    "year": 1995,
+    "crop": "Barley",
+    "production": 777
+  },
+  {
+    "year": 1995,
+    "crop": "Bajra",
+    "production": 518
+  },
+  {
+    "year": 1995,
+    "crop": "Sugarcane",
+    "production": 74
+  },
+  {
+    "year": 1995,
+    "crop": "Cotton",
+    "production": 475
+  },
+  {
+    "year": 1995,
+    "crop": "Groundnut",
+    "production": 443
+  },
+  {
+    "year": 1996,
+    "crop": "Wheat",
+    "production": 339
+  },
+  {
+    "year": 1996,
+    "crop": "Rice",
+    "production": 498
+  },
+  {
+    "year": 1996,
+    "crop": "Maize",
+    "production": 274
+  },
+  {
+    "year": 1996,
+    "crop": "Barley",
+    "production": 274
+  },
+  {
+    "year": 1996,
+    "crop": "Bajra",
+    "production": 205
+  },
+  {
+    "year": 1996,
+    "crop": "Sugarcane",
+    "production": 64
+  },
+  {
+    "year": 1996,
+    "crop": "Cotton",
+    "production": 671
+  },
+  {
+    "year": 1996,
+    "crop": "Groundnut",
+    "production": 586
+  },
+  {
+    "year": 1997,
+    "crop": "Wheat",
+    "production": 644
+  },
+  {
+    "year": 1997,
+    "crop": "Rice",
+    "production": 564
+  },
+  {
+    "year": 1997,
+    "crop": "Maize",
+    "production": 789
+  },
+  {
+    "year": 1997,
+    "crop": "Barley",
+    "production": 285
+  },
+  {
+    "year": 1997,
+    "crop": "Bajra",
+    "production": 532
+  },
+  {
+    "year": 1997,
+    "crop": "Sugarcane",
+    "production": 204
+  },
+  {
+    "year": 1997,
+    "crop": "Cotton",
+    "production": 2
+  },
+  {
+    "year": 1997,
+    "crop": "Groundnut",
+    "production": 462
+  },
+  {
+    "year": 1998,
+    "crop": "Wheat",
+    "production": 73
+  },
+  {
+    "year": 1998,
+    "crop": "Rice",
+    "production": 526
+  },
+  {
+    "year": 1998,
+    "crop": "Maize",
+    "production": 513
+  },
+  {
+    "year": 1998,
+    "crop": "Barley",
+    "production": 270
+  },
+  {
+    "year": 1998,
+    "crop": "Bajra",
+    "production": 962
+  },
+  {
+    "year": 1998,
+    "crop": "Sugarcane",
+    "production": 532
+  },
+  {
+    "year": 1998,
+    "crop": "Cotton",
+    "production": 287
+  },
+  {
+    "year": 1998,
+    "crop": "Groundnut",
+    "production": 127
+  },
+  {
+    "year": 1999,
+    "crop": "Wheat",
+    "production": 128
+  },
+  {
+    "year": 1999,
+    "crop": "Rice",
+    "production": 751
+  },
+  {
+    "year": 1999,
+    "crop": "Maize",
+    "production": 884
+  },
+  {
+    "year": 1999,
+    "crop": "Barley",
+    "production": 3
+  },
+  {
+    "year": 1999,
+    "crop": "Bajra",
+    "production": 214
+  },
+  {
+    "year": 1999,
+    "crop": "Sugarcane",
+    "production": 394
+  },
+  {
+    "year": 1999,
+    "crop": "Cotton",
+    "production": 683
+  },
+  {
+    "year": 1999,
+    "crop": "Groundnut",
+    "production": 81
+  },
+  {
+    "year": 2000,
+    "crop": "Wheat",
+    "production": 325
+  },
+  {
+    "year": 2000,
+    "crop": "Rice",
+    "production": 284
+  },
+  {
+    "year": 2000,
+    "crop": "Maize",
+    "production": 93
+  },
+  {
+    "year": 2000,
+    "crop": "Barley",
+    "production": 862
+  },
+  {
+    "year": 2000,
+    "crop": "Bajra",
+    "production": 495
+  },
+  {
+    "year": 2000,
+    "crop": "Sugarcane",
+    "production": 884
+  },
+  {
+    "year": 2000,
+    "crop": "Cotton",
+    "production": 982
+  },
+  {
+    "year": 2000,
+    "crop": "Groundnut",
+    "production": 186
+  },
+  {
+    "year": 2001,
+    "crop": "Wheat",
+    "production": 189
+  },
+  {
+    "year": 2001,
+    "crop": "Rice",
+    "production": 564
+  },
+  {
+    "year": 2001,
+    "crop": "Maize",
+    "production": 571
+  },
+  {
+    "year": 2001,
+    "crop": "Barley",
+    "production": 861
+  },
+  {
+    "year": 2001,
+    "crop": "Bajra",
+    "production": 947
+  },
+  {
+    "year": 2001,
+    "crop": "Sugarcane",
+    "production": 803
+  },
+  {
+    "year": 2001,
+    "crop": "Cotton",
+    "production": 92
+  },
+  {
+    "year": 2001,
+    "crop": "Groundnut",
+    "production": 411
+  },
+  {
+    "year": 2002,
+    "crop": "Wheat",
+    "production": 899
+  },
+  {
+    "year": 2002,
+    "crop": "Rice",
+    "production": 546
+  },
+  {
+    "year": 2002,
+    "crop": "Maize",
+    "production": 104
+  },
+  {
+    "year": 2002,
+    "crop": "Barley",
+    "production": 326
+  },
+  {
+    "year": 2002,
+    "crop": "Bajra",
+    "production": 349
+  },
+  {
+    "year": 2002,
+    "crop": "Sugarcane",
+    "production": 852
+  },
+  {
+    "year": 2002,
+    "crop": "Cotton",
+    "production": 235
+  },
+  {
+    "year": 2002,
+    "crop": "Groundnut",
+    "production": 182
+  },
+  {
+    "year": 2003,
+    "crop": "Wheat",
+    "production": 554
+  },
+  {
+    "year": 2003,
+    "crop": "Rice",
+    "production": 845
+  },
+  {
+    "year": 2003,
+    "crop": "Maize",
+    "production": 77
+  },
+  {
+    "year": 2003,
+    "crop": "Barley",
+    "production": 391
+  },
+  {
+    "year": 2003,
+    "crop": "Bajra",
+    "production": 226
+  },
+  {
+    "year": 2003,
+    "crop": "Sugarcane",
+    "production": 478
+  },
+  {
+    "year": 2003,
+    "crop": "Cotton",
+    "production": 408
+  },
+  {
+    "year": 2003,
+    "crop": "Groundnut",
+    "production": 521
+  },
+  {
+    "year": 2004,
+    "crop": "Wheat",
+    "production": 23
+  },
+  {
+    "year": 2004,
+    "crop": "Rice",
+    "production": 56
+  },
+  {
+    "year": 2004,
+    "crop": "Maize",
+    "production": 126
+  },
+  {
+    "year": 2004,
+    "crop": "Barley",
+    "production": 337
+  },
+  {
+    "year": 2004,
+    "crop": "Bajra",
+    "production": 840
+  },
+  {
+    "year": 2004,
+    "crop": "Sugarcane",
+    "production": 354
+  },
+  {
+    "year": 2004,
+    "crop": "Cotton",
+    "production": 143
+  },
+  {
+    "year": 2004,
+    "crop": "Groundnut",
+    "production": 709
+  },
+  {
+    "year": 2005,
+    "crop": "Wheat",
+    "production": 92
+  },
+  {
+    "year": 2005,
+    "crop": "Rice",
+    "production": 123
+  },
+  {
+    "year": 2005,
+    "crop": "Maize",
+    "production": 906
+  },
+  {
+    "year": 2005,
+    "crop": "Barley",
+    "production": 725
+  },
+  {
+    "year": 2005,
+    "crop": "Bajra",
+    "production": 809
+  },
+  {
+    "year": 2005,
+    "crop": "Sugarcane",
+    "production": 984
+  },
+  {
+    "year": 2005,
+    "crop": "Cotton",
+    "production": 513
+  },
+  {
+    "year": 2005,
+    "crop": "Groundnut",
+    "production": 66
+  },
+  {
+    "year": 2006,
+    "crop": "Wheat",
+    "production": 273
+  },
+  {
+    "year": 2006,
+    "crop": "Rice",
+    "production": 618
+  },
+  {
+    "year": 2006,
+    "crop": "Maize",
+    "production": 846
+  },
+  {
+    "year": 2006,
+    "crop": "Barley",
+    "production": 431
+  },
+  {
+    "year": 2006,
+    "crop": "Bajra",
+    "production": 286
+  },
+  {
+    "year": 2006,
+    "crop": "Sugarcane",
+    "production": 797
+  },
+  {
+    "year": 2006,
+    "crop": "Cotton",
+    "production": 471
+  },
+  {
+    "year": 2006,
+    "crop": "Groundnut",
+    "production": 504
+  },
+  {
+    "year": 2007,
+    "crop": "Wheat",
+    "production": 684
+  },
+  {
+    "year": 2007,
+    "crop": "Rice",
+    "production": 341
+  },
+  {
+    "year": 2007,
+    "crop": "Maize",
+    "production": 177
+  },
+  {
+    "year": 2007,
+    "crop": "Barley",
+    "production": 851
+  },
+  {
+    "year": 2007,
+    "crop": "Bajra",
+    "production": 356
+  },
+  {
+    "year": 2007,
+    "crop": "Sugarcane",
+    "production": 709
+  },
+  {
+    "year": 2007,
+    "crop": "Cotton",
+    "production": 500
+  },
+  {
+    "year": 2007,
+    "crop": "Groundnut",
+    "production": 398
+  },
+  {
+    "year": 2008,
+    "crop": "Wheat",
+    "production": 173
+  },
+  {
+    "year": 2008,
+    "crop": "Rice",
+    "production": 496
+  },
+  {
+    "year": 2008,
+    "crop": "Maize",
+    "production": 117
+  },
+  {
+    "year": 2008,
+    "crop": "Barley",
+    "production": 105
+  },
+  {
+    "year": 2008,
+    "crop": "Bajra",
+    "production": 689
+  },
+  {
+    "year": 2008,
+    "crop": "Sugarcane",
+    "production": 883
+  },
+  {
+    "year": 2008,
+    "crop": "Cotton",
+    "production": 847
+  },
+  {
+    "year": 2008,
+    "crop": "Groundnut",
+    "production": 229
+  },
+  {
+    "year": 2009,
+    "crop": "Wheat",
+    "production": 575
+  },
+  {
+    "year": 2009,
+    "crop": "Rice",
+    "production": 477
+  },
+  {
+    "year": 2009,
+    "crop": "Maize",
+    "production": 910
+  },
+  {
+    "year": 2009,
+    "crop": "Barley",
+    "production": 37
+  },
+  {
+    "year": 2009,
+    "crop": "Bajra",
+    "production": 699
+  },
+  {
+    "year": 2009,
+    "crop": "Sugarcane",
+    "production": 71
+  },
+  {
+    "year": 2009,
+    "crop": "Cotton",
+    "production": 259
+  },
+  {
+    "year": 2009,
+    "crop": "Groundnut",
+    "production": 942
+  },
+  {
+    "year": 2010,
+    "crop": "Wheat",
+    "production": 801
+  },
+  {
+    "year": 2010,
+    "crop": "Rice",
+    "production": 761
+  },
+  {
+    "year": 2010,
+    "crop": "Maize",
+    "production": 75
+  },
+  {
+    "year": 2010,
+    "crop": "Barley",
+    "production": 75
+  },
+  {
+    "year": 2010,
+    "crop": "Bajra",
+    "production": 687
+  },
+  {
+    "year": 2010,
+    "crop": "Sugarcane",
+    "production": 116
+  },
+  {
+    "year": 2010,
+    "crop": "Cotton",
+    "production": 336
+  },
+  {
+    "year": 2010,
+    "crop": "Groundnut",
+    "production": 773
+  },
+  {
+    "year": 2011,
+    "crop": "Wheat",
+    "production": 634
+  },
+  {
+    "year": 2011,
+    "crop": "Rice",
+    "production": 841
+  },
+  {
+    "year": 2011,
+    "crop": "Maize",
+    "production": 998
+  },
+  {
+    "year": 2011,
+    "crop": "Barley",
+    "production": 513
+  },
+  {
+    "year": 2011,
+    "crop": "Bajra",
+    "production": 61
+  },
+  {
+    "year": 2011,
+    "crop": "Sugarcane",
+    "production": 251
+  },
+  {
+    "year": 2011,
+    "crop": "Cotton",
+    "production": 230
+  },
+  {
+    "year": 2011,
+    "crop": "Groundnut",
+    "production": 942
+  },
+  {
+    "year": 2012,
+    "crop": "Wheat",
+    "production": 339
+  },
+  {
+    "year": 2012,
+    "crop": "Rice",
+    "production": 820
+  },
+  {
+    "year": 2012,
+    "crop": "Maize",
+    "production": 856
+  },
+  {
+    "year": 2012,
+    "crop": "Barley",
+    "production": 46
+  },
+  {
+    "year": 2012,
+    "crop": "Bajra",
+    "production": 809
+  },
+  {
+    "year": 2012,
+    "crop": "Sugarcane",
+    "production": 191
+  },
+  {
+    "year": 2012,
+    "crop": "Cotton",
+    "production": 292
+  },
+  {
+    "year": 2012,
+    "crop": "Groundnut",
+    "production": 338
+  },
+  {
+    "year": 2013,
+    "crop": "Wheat",
+    "production": 816
+  },
+  {
+    "year": 2013,
+    "crop": "Rice",
+    "production": 918
+  },
+  {
+    "year": 2013,
+    "crop": "Maize",
+    "production": 455
+  },
+  {
+    "year": 2013,
+    "crop": "Barley",
+    "production": 854
+  },
+  {
+    "year": 2013,
+    "crop": "Bajra",
+    "production": 985
+  },
+  {
+    "year": 2013,
+    "crop": "Sugarcane",
+    "production": 15
+  },
+  {
+    "year": 2013,
+    "crop": "Cotton",
+    "production": 334
+  },
+  {
+    "year": 2013,
+    "crop": "Groundnut",
+    "production": 963
+  },
+  {
+    "year": 2014,
+    "crop": "Wheat",
+    "production": 692
+  },
+  {
+    "year": 2014,
+    "crop": "Rice",
+    "production": 839
+  },
+  {
+    "year": 2014,
+    "crop": "Maize",
+    "production": 570
+  },
+  {
+    "year": 2014,
+    "crop": "Barley",
+    "production": 857
+  },
+  {
+    "year": 2014,
+    "crop": "Bajra",
+    "production": 188
+  },
+  {
+    "year": 2014,
+    "crop": "Sugarcane",
+    "production": 214
+  },
+  {
+    "year": 2014,
+    "crop": "Cotton",
+    "production": 38
+  },
+  {
+    "year": 2014,
+    "crop": "Groundnut",
+    "production": 88
+  },
+  {
+    "year": 2015,
+    "crop": "Wheat",
+    "production": 880
+  },
+  {
+    "year": 2015,
+    "crop": "Rice",
+    "production": 555
+  },
+  {
+    "year": 2015,
+    "crop": "Maize",
+    "production": 662
+  },
+  {
+    "year": 2015,
+    "crop": "Barley",
+    "production": 430
+  },
+  {
+    "year": 2015,
+    "crop": "Bajra",
+    "production": 285
+  },
+  {
+    "year": 2015,
+    "crop": "Sugarcane",
+    "production": 671
+  },
+  {
+    "year": 2015,
+    "crop": "Cotton",
+    "production": 296
+  },
+  {
+    "year": 2015,
+    "crop": "Groundnut",
+    "production": 829
+  },
+  {
+    "year": 2016,
+    "crop": "Wheat",
+    "production": 218
+  },
+  {
+    "year": 2016,
+    "crop": "Rice",
+    "production": 702
+  },
+  {
+    "year": 2016,
+    "crop": "Maize",
+    "production": 279
+  },
+  {
+    "year": 2016,
+    "crop": "Barley",
+    "production": 463
+  },
+  {
+    "year": 2016,
+    "crop": "Bajra",
+    "production": 592
+  },
+  {
+    "year": 2016,
+    "crop": "Sugarcane",
+    "production": 712
+  },
+  {
+    "year": 2016,
+    "crop": "Cotton",
+    "production": 279
+  },
+  {
+    "year": 2016,
+    "crop": "Groundnut",
+    "production": 288
+  },
+  {
+    "year": 2017,
+    "crop": "Wheat",
+    "production": 968
+  },
+  {
+    "year": 2017,
+    "crop": "Rice",
+    "production": 925
+  },
+  {
+    "year": 2017,
+    "crop": "Maize",
+    "production": 251
+  },
+  {
+    "year": 2017,
+    "crop": "Barley",
+    "production": 554
+  },
+  {
+    "year": 2017,
+    "crop": "Bajra",
+    "production": 467
+  },
+  {
+    "year": 2017,
+    "crop": "Sugarcane",
+    "production": 5
+  },
+  {
+    "year": 2017,
+    "crop": "Cotton",
+    "production": 403
+  },
+  {
+    "year": 2017,
+    "crop": "Groundnut",
+    "production": 611
+  },
+  {
+    "year": 2018,
+    "crop": "Wheat",
+    "production": 643
+  },
+  {
+    "year": 2018,
+    "crop": "Rice",
+    "production": 633
+  },
+  {
+    "year": 2018,
+    "crop": "Maize",
+    "production": 145
+  },
+  {
+    "year": 2018,
+    "crop": "Barley",
+    "production": 808
+  },
+  {
+    "year": 2018,
+    "crop": "Bajra",
+    "production": 827
+  },
+  {
+    "year": 2018,
+    "crop": "Sugarcane",
+    "production": 363
+  },
+  {
+    "year": 2018,
+    "crop": "Cotton",
+    "production": 924
+  },
+  {
+    "year": 2018,
+    "crop": "Groundnut",
+    "production": 929
+  },
+  {
+    "year": 2019,
+    "crop": "Wheat",
+    "production": 96
+  },
+  {
+    "year": 2019,
+    "crop": "Rice",
+    "production": 819
+  },
+  {
+    "year": 2019,
+    "crop": "Maize",
+    "production": 259
+  },
+  {
+    "year": 2019,
+    "crop": "Barley",
+    "production": 146
+  },
+  {
+    "year": 2019,
+    "crop": "Bajra",
+    "production": 338
+  },
+  {
+    "year": 2019,
+    "crop": "Sugarcane",
+    "production": 490
+  },
+  {
+    "year": 2019,
+    "crop": "Cotton",
+    "production": 496
+  },
+  {
+    "year": 2019,
+    "crop": "Groundnut",
+    "production": 556
+  },
+  {
+    "year": 2020,
+    "crop": "Wheat",
+    "production": 555
+  },
+  {
+    "year": 2020,
+    "crop": "Rice",
+    "production": 247
+  },
+  {
+    "year": 2020,
+    "crop": "Maize",
+    "production": 180
+  },
+  {
+    "year": 2020,
+    "crop": "Barley",
+    "production": 545
+  },
+  {
+    "year": 2020,
+    "crop": "Bajra",
+    "production": 872
+  },
+  {
+    "year": 2020,
+    "crop": "Sugarcane",
+    "production": 581
+  },
+  {
+    "year": 2020,
+    "crop": "Cotton",
+    "production": 153
+  },
+  {
+    "year": 2020,
+    "crop": "Groundnut",
+    "production": 24
+  }
+]
